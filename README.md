@@ -14,3 +14,5 @@
 查看状态： git status
 
 查看远程仓库地址： git remote; git remote -v
+
+更新代码： git pull origin
