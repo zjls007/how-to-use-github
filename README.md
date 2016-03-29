@@ -18,3 +18,5 @@
 更新代码： git pull origin
 
 删除文件： 1.删除文件 a.txt  2. git rm -f a.txt 3. git commit -m 'log' 4.git push origin master
+
+测试:test
